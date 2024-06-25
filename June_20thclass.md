@@ -1,7 +1,7 @@
 ## Lecuure 1
 Hello world
 
-### dthings that i am confused about
+### things that i am confused about
 
 
 ###code demo in lacture
@@ -11,3 +11,14 @@ v0id main (){
 }
 
 ### something to read after lecture
+
+
+### Lecture 3 (day three)
+
+tell the time , dont build the clock 
+
+ask stratight to the botom line 
+
+##### Time management 
+
+# Prioritize 
