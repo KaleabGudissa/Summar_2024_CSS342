@@ -22,3 +22,13 @@ ask stratight to the botom line
 ##### Time management 
 
 # Prioritize 
+
+
+## Lecture 4
+
+Memory
+- stack memory : used for assigned ints : fast : small : returned automatically
+- heap memory : used with pointers : slow : big : we have to delete 
+
+if we use heap memory we have to delete the memory space we used when we are done using.
+
