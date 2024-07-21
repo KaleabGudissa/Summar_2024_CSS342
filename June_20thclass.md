@@ -32,3 +32,7 @@ Memory
 
 if we use heap memory we have to delete the memory space we used when we are done using.
 
+# week five 
+
+doing homw work and testing my codes \.
+
